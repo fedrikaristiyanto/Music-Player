@@ -2,8 +2,5 @@
 
 <svg width="240" height="100" viewBox="0 0 240 100">
   <title>Halo</title>
-    <g>
       <text x="10" y="50">(i)</text>
-      <animate attributeName='opacity' values='0;1' dur='4s' fill='freeze' begin="0s"/>
-    </g>
 </svg>
