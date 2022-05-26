@@ -51,8 +51,11 @@ function next(){
         n=0;
     }
     i.innerHTML = inf[n];
-    aud.src = Src[n];
-aud.play();
+
+if (n==0){aud.src=Src[n];}
+else{
+aud.src = Src[n];
+aud.play();}
 }
 
 function prev(){
