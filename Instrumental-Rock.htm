@@ -35,6 +35,7 @@
 </source>
 </audio>
 <p class="alert alert-info"><i>Note: agar tdk terhenti musik playernya jgn di close window/tabnya, cukup diminimize aja. Selamat menikmati ! :)</i></p>
+<button type="button" class="btn btn-default" onclick="play1st()">1</button>
 </figure>
 
 <div id="tracklist"></div>
@@ -99,6 +100,12 @@ ig.src ="/Music-Player/img/d.png";
 function load1stTrack(){
 var audio = document.getElementById("track");
 audio.src=tr[0];
+document.getElementById("i").innerHTML=ttl[0];
+}
+
+function play1st(){
+var audio = document.getElementById("track");
+audio.src=tr[0];audio.play();
 document.getElementById("i").innerHTML=ttl[0];
 }
 
