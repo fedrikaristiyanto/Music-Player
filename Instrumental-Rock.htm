@@ -35,11 +35,6 @@
 </source>
 </audio>
 <p class="alert alert-info"><i>Note: agar tdk terhenti musik playernya jgn di close window/tabnya, cukup diminimize aja. Selamat menikmati ! :)</i></p>
-<button type="button" class="btn btn-default" onclick="play1st()">1</button>
-<button type="button" class="btn btn-default" onclick="play2nd()">2</button>
-<button type="button" class="btn btn-default" onclick="play3rd()">3</button>
-<button type="button" class="btn btn-default" onclick="play4th()">4</button>
-<button type="button" class="btn btn-default" onclick="play5th()">5</button>
 </figure>
 
 <div id="tracklist"></div>
@@ -105,33 +100,6 @@ function load1stTrack(){
 var audio = document.getElementById("track");
 audio.src=tr[0];
 document.getElementById("i").innerHTML=ttl[0];
-}
-
-// button
-function play1st(){
-var audio = document.getElementById("track");
-audio.src=tr[0];audio.play();
-document.getElementById("i").innerHTML=ttl[0];
-}
-function play2nd(){
-var audio = document.getElementById("track");
-audio.src=tr[1];audio.play();
-document.getElementById("i").innerHTML=ttl[1];
-}
-function play3rd(){
-var audio = document.getElementById("track");
-audio.src=tr[2];audio.play();
-document.getElementById("i").innerHTML=ttl[2];
-}
-function play4th(){
-var audio = document.getElementById("track");
-audio.src=tr[3];audio.play();
-document.getElementById("i").innerHTML=ttl[3];
-}
-function play5th(){
-var audio = document.getElementById("track");
-audio.src=tr[4];audio.play();
-document.getElementById("i").innerHTML=ttl[4];
 }
 
 // list
