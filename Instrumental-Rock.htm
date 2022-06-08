@@ -37,6 +37,7 @@
 <p class="alert alert-info"><i>Note: agar tdk terhenti musik playernya jgn di close window/tabnya, cukup diminimize aja. Selamat menikmati ! :)</i></p>
 <button type="button" class="btn btn-default" onclick="play1st()">1</button>
 <button type="button" class="btn btn-default" onclick="play2nd()">2</button>
+<button type="button" class="btn btn-default" onclick="play3rd()">3</button>
 </figure>
 
 <div id="tracklist"></div>
@@ -104,6 +105,7 @@ audio.src=tr[0];
 document.getElementById("i").innerHTML=ttl[0];
 }
 
+// button
 function play1st(){
 var audio = document.getElementById("track");
 audio.src=tr[0];audio.play();
@@ -114,8 +116,13 @@ var audio = document.getElementById("track");
 audio.src=tr[1];audio.play();
 document.getElementById("i").innerHTML=ttl[1];
 }
+function play3rd(){
+var audio = document.getElementById("track");
+audio.src=tr[2];audio.play();
+document.getElementById("i").innerHTML=ttl[2];
+}
 
-//list
+// list
 var text = "<ul class='list-group'>";
 for (var x=0; x< ttl.length; x++) {
   text += "<li class='list-group-item'>" + ttl[x] + "</li>";
