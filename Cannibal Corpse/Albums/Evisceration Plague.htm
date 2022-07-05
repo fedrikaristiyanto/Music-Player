@@ -87,8 +87,13 @@ function playAlbum() {
 var audio = document.getElementById("track");
 n++
 if (n >= tr.length){
-        n = 0;
-    }
+        n = 0;}
+
+if (n==0){audio.src=tr[n];}
+else{
+audio.src = tr[n];
+audio.play();}
+
 }
 
 */
