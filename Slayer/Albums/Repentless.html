@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
-<body>
+<body onload="ld()">>
 <img src="https://is.gd/NFD6bI" alt="Slayer-Repentless.jpg"/>
 <figure>
 <figcaption id="i"></figcaption>
@@ -16,10 +16,15 @@
 
 <script>
 var i =[
-"Delusions of Saviour", 
+"<a href='https://docs.google.com/uc?export=download&id=1cp9H3b6bMeFmgbSrKFQMhPFew-LA-Xnt'>Delusions of Saviour", 
 "Repentless"
 ];
 document.getElementById("l").innerHTML=i.join("<br>");
+
+function ld() {
+document.getElementById("i").innerHTML=i[0];
+}
+
 
 
 </script>
