@@ -17,25 +17,46 @@ text-align:center
 }
 
 
-div{
-float:left;
-padding:10px;
-font-size:large;
+
+.pagination {
+     display:inline-block;
+
+     }
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px;
+  text-decoration: none;
+  border:1px solid #ddd;
 }
-.MP{
-background-color:silver;
+.pagination a.active {
+  background-color:Blue;
+  color: white;
+  border:1px solid Blue;
 }
-.Unf{
-background-color:black;
-color:white;
+
+.pagination a:hover:not(.active){
+background-color: #ddd;
 }
+.pagination a:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination a:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+
 </style>
 </head>
 <body onload="loaD()">
 
-
-<div class="MP"><a href="/Music-Player">🔙</a></div>
-<div class="Unf">Metallica Unforgiven 1, 2 & 3</div>
+<div class="pagination">
+<a href="/Music-Player">🔙</a>
+<a class="active">Metallica Unforgiven 1, 2 & 3</a>
+</div>
 
 <br><br>
 
