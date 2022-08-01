@@ -1,6 +1,7 @@
 var n=0;
 
 function next(){
+
 n++;
 
 if (n >= Caption.length){
@@ -10,7 +11,17 @@ document.getElementById("Caption").innerHTML=Caption[n];
 
 
 
-var Audio =;
+var Audio = document.getElementById("Audio");
+
+if (n >= Source.length){
+        n = 0;
+    }
+
+if (n==0){Audio.src=Source[n];}
+else{
+Audio.src = Source[n];
+Audio.play();
+  }
 }
 
 function loadFirstArray(){
