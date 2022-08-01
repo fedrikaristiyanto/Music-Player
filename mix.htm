@@ -4,6 +4,8 @@
 <title>mix</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="/css/bg-lin-gradien-pelangi.css" rel="stylesheet" type="text/css" />
+<script src="/Music-Player/playlist.js"></script>
+
 <style>
 body{font-family:cursive;}
 figure{
@@ -21,13 +23,13 @@ right:8px;
 </style>
 
 </head>
-<body onload="load1stTrack()">
+<body onload="loadFirstArray()">
 <h2 id="pelangi">MIX</h2>
 
 <figure>
-<figcaption id="i"></figcaption>
+<figcaption id="Caption"></figcaption>
 
-<audio id="track" onended="playSquence()" controls>
+<audio id="Audio" onended="Next()" controls>
 <source src=""></source>
 </audio>
 
@@ -35,44 +37,17 @@ right:8px;
 
 <script>
 
-var ttl =[];var tr=[];
+var Caption =[];var Source=[];
 
-ttl[2]="Toni Braxton - Un-Break My Heart";
-tr[2]="https://bit.ly/3A4n9df";
+Caption[2]="Toni Braxton - Un-Break My Heart";
+Source[2]="https://bit.ly/3A4n9df";
 
-ttl[0]="Robbie Williams - Feel (Radio Edit version)";
-tr[0]="https://bit.ly/3KByovq";
+Caption[0]="Robbie Williams - Feel (Radio Edit version)";
+Source[0]="https://bit.ly/3KByovq";
 
-ttl[1]="🎹 Adele - Easy On Me";
-tr[1]="https://bit.ly/3z65tNY";
+Caption[1]="🎹 Adele - Easy On Me";
+Source[1]="https://bit.ly/3z65tNY";
 
-var n=0;
-
-function playSquence() {
-
-var audio = document.getElementById("track");
-n++;
-if (n >= tr.length){
-        n = 0;
-    }
-
-if (n==0){audio.src=tr[n];}
-else{
-audio.src = tr[n];
-audio.play();}
-
-if (n >= ttl.length){
-n=0;
-}
-document.getElementById("i").innerHTML=ttl[n];
-
-}
-
-function load1stTrack() {
-var audio = document.getElementById("track");
-audio.src=tr[0];
-document.getElementById("i").innerHTML=ttl[0];
-}
 </script>
 
 <div id="footer">
