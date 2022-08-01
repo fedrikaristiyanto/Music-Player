@@ -21,13 +21,13 @@
 <pre>&lt;script src="https://fedrikaristiyanto.github.io/Music-Player/javascript/playlist.js" type="text/javascript"&gt;&lt;/script&gt;</pre>
 <br>
 <p>kemudian buat html audio element seperti dibawah ini</p>
-<br>
 <pre>
 &lt;figure&gt;
 &lt;figcaption id="Caption"&gt;&lt;/figcaption&gt;
 &lt;audio id="Audio" src="" onended="next()" controls&gt;Audio&lt;/audio&gt;
 &lt/figure&gt;
 </pre>
+<br>
 <p>kemudian buat array untuk lagu-lagu beserta caption-captionnya</p>
 <pre>
 &lt;script&gt;
@@ -43,7 +43,7 @@ var Source =[
 ];
 &lt;/script&gt;
 </pre>
-
+<br>
 <p>lalu buat event onload seperti dibawah ini pada tag body yg berfungsi untuk meload first array</p>
 <pre>&lt;body <mark>onload="loadFirstArray()"</mark>&gt;
 
