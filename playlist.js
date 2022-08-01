@@ -1,9 +1,14 @@
 var n=0;
 
 function next(){
-var Caption = document.getElementById("Title");
-
 n++;
+
+if (n >= Caption.length){
+n=0;
+}
+document.getElementById("Caption").innerHTML=Caption[n];
+
+
 
 var Audio =;
 }
