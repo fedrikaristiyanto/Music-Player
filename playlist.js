@@ -25,5 +25,7 @@ Audio.play();
 }
 
 function loadFirstArray(){
-
+document.getElementById("Caption").innerHTML=Caption[0];
+var Audio = document.getElementById("Audio");
+Audio.src=Source[0];
 }
