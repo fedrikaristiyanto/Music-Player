@@ -92,7 +92,11 @@ if (n >= tr.length){
 if (n==0){audio.src=tr[n];}
 else{
 audio.src = tr[n];
-audio.play();}
+audio.play();
+}
+
+if (n >=ttl.length){n=0;}
+document.getElementById("t").innerHTML=ttl[n];
 
 }
 
