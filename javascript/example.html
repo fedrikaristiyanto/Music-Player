@@ -3,7 +3,25 @@
 <head>
 <script src="https://fedrikaristiyanto.github.io/Music-Player/javascript/playlist.js" type="text/javascript"></script>
 </head>
-<body>
+<body onload="loadFirstArray()">
+
+<figure>
+<figcaption id="Caption"></figcaption>
+<audio id="Audio" src="" onended="next()" controls></audio>
+</figure>
+
+<script>
+var Caption =[
+"Caption untuk /sumber_file1",
+"Caption untuk /sumber_file2",
+"Caption untuk /sumber_file3"
+];
+var Source =[
+"/sumber_file1",
+"/sumber_file2",
+"/sumber_file3"
+];
+</script>
 
 </body>
 </html>
