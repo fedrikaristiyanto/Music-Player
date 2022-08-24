@@ -1,6 +1,6 @@
 
-- https://bit.ly/3z65tNY (Adele - Easy On Me) 
-- https://bit.ly/388fZsU (Andy James - The Long Road) __instrumental__
+- <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
+- https://bit.ly/388fZsU (Andy James - The Long Road) <em>instrumental</em>
 - https://bit.ly/3OINpPk (Andy James - Legion) __instrumental__
 
 - https://bit.ly/3LaX9ii (Dave Grusin - Crystal Morning) 
