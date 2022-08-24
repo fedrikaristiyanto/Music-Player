@@ -1,9 +1,9 @@
 
 - <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
-- https://bit.ly/388fZsU (Andy James - The Long Road) <em>instrumental</em>
-- https://bit.ly/3OINpPk (Andy James - Legion) __instrumental__
+- <https://bit.ly/388fZsU> (Andy James - The Long Road) _instrumental_
+- https://bit.ly/3OINpPk (Andy James - Legion) _instrumental_
 
-- https://bit.ly/3LaX9ii (Dave Grusin - Crystal Morning) 
+- https://bit.ly/3LaX9ii (Dave Grusin - Crystal Morning) _jazz instrumental__
 
 - https://bit.ly/3uVdkuR (Diana Krall - If I Had You) 
 
