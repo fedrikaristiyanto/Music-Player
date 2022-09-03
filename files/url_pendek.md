@@ -1,3 +1,5 @@
+[/files/url_pendek.md#y](Y)
+
 ### A
 - <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
 - <https://bit.ly/388fZsU> (Andy James - The Long Road) _instrumental_
