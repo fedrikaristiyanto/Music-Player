@@ -1,4 +1,5 @@
-A | [Y](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#y)
+[A](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#a) / D /
+ [Y](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#y)
 
 ### A
 - <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
