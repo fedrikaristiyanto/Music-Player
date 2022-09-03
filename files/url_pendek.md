@@ -1,4 +1,4 @@
-[/files/url_pendek.md#y](Y)
+[Y](Music-Player/files/url_pendek.md#y)
 
 ### A
 - <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
