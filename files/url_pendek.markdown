@@ -3,6 +3,7 @@
  [D](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#d) /
  [F](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#f) /
  J /
+ L /
  [Y](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#y)
 
 ---
@@ -23,7 +24,7 @@
 ### J
 - <https://bit.ly/3LWNflr> (Jacko - You Are Not Alone)  
 - <https://is.gd/eQphra> (Jeff Beck - Bulgaria) _Instrumental_
-- https://bit.ly/3PjghOq (Jennifer Rush - The Power of Love) 
+- <https://bit.ly/3PjghOq> (Jennifer Rush - The Power of Love) 
 - https://bit.ly/3G7P0KN (Joe Satriani - Starry Night) 
 - https://bit.ly/3MaGbC5 (John Petrucci - Lost Without You)
 
@@ -48,5 +49,5 @@
 - https://bit.ly/3xBXaab (Yngwie Malmsteen - Cavallino Rampante) 
 
 
-<hr>
+---
 <div align="right"><i>🎶 Audio/Music-Player</i></div>
