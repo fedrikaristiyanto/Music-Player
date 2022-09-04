@@ -18,8 +18,8 @@
 - <https://bit.ly/3tKDbF9> (Frank Sinatra & Antonio Carlos Jobim - The Girl From Ipanema) 
 
 ### J
-- https://bit.ly/3LWNflr (Jacko - You Are Not Alone)  
-- https://is.gd/eQphra (Jeff Beck - Bulgaria) 
+- <https://bit.ly/3LWNflr> (Jacko - You Are Not Alone)  
+- https://is.gd/eQphra (Jeff Beck - Bulgaria) _Instrumental_
 - https://bit.ly/3PjghOq (Jennifer Rush - The Power of Love) 
 - https://bit.ly/3G7P0KN (Joe Satriani - Starry Night) 
 - https://bit.ly/3MaGbC5 (John Petrucci - Lost Without You)
