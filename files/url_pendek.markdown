@@ -2,7 +2,7 @@
 [A](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#a) /
  [D](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#d) /
  [F](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#f) /
- J /
+ [J](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#j) /
  L /
  [Y](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#y)
 
