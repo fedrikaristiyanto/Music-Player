@@ -25,8 +25,8 @@
 - <https://bit.ly/3LWNflr> (Jacko - You Are Not Alone)  
 - <https://is.gd/eQphra> (Jeff Beck - Bulgaria) _Instrumental_
 - <https://bit.ly/3PjghOq> (Jennifer Rush - The Power of Love) 
-- https://bit.ly/3G7P0KN (Joe Satriani - Starry Night) 
-- https://bit.ly/3MaGbC5 (John Petrucci - Lost Without You)
+- <https://bit.ly/3G7P0KN> (Joe Satriani - Starry Night) _Instrumental_
+- <https://bit.ly/3MaGbC5> (John Petrucci - Lost Without You) _Instrumental_
 
 ### L
 - https://bit.ly/3vUMwus (Linkin Park - Session)
