@@ -44,4 +44,4 @@
 
 
 <hr>
-<div align="right"><i>:notes: Audio/Music-Player</i></div>
+<div align="right"><i>🎼 Audio/Music-Player</i></div>
