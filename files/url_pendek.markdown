@@ -3,7 +3,7 @@
  [D](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#d) /
  [F](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#f) /
  [J](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#j) /
- L /
+ [L](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#l) /
  [Y](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#y)
 
 ---
@@ -29,7 +29,7 @@
 - <https://bit.ly/3MaGbC5> (John Petrucci - Lost Without You) _Instrumental_
 
 ### L
-- https://bit.ly/3vUMwus (Linkin Park - Session)
+- <https://bit.ly/3vUMwus> (Linkin Park - Session)
 
 ### N
 - https://bit.ly/3wB5xnc (Natalie Cole - Lovers) 
