@@ -30,7 +30,7 @@
 - <https://bit.ly/3MaGbC5> (John Petrucci - Lost Without You) _Instrumental_
 
 ### L
-- <https://bit.ly/3vUMwus> (Linkin Park - Session)
+- <https://bit.ly/3vUMwus> (Linkin Park - Session) _Instrumental_
 
 ### N
 - <https://bit.ly/3wB5xnc> (Natalie Cole - Lovers) 
