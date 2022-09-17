@@ -4,10 +4,40 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="/files/msc/script/Gorgoroth.js" defer></script>
 </head>
-<body>
+<body onload="loadFirstSong()">>
+
+<!-- play album -->
+
+<p id="t"></p>
+<audio id="track" src="" onended="next()" controls controlsList="noplaybackrate nodownload"></audio>
+<!--<button onclick="next()">Next</button>-->
+
 <div id="T0T1"></div>
 
 <script>
+var ttl=[];var tr=[];
+
+ttl[0]="Procreating Satan";
+tr[0]="https://docs.google.com/uc?export=download&id=1YDvaySKkh5Jt-jJVyAI1N5gU9WOLq9_z";
+
+ttl[1]="Proclaiming Mercy - Damaging Instinct of Man";
+tr[1]="https://docs.google.com/uc?export=download&id=18A0TiuYLg5PKF4bH6cpfQcEAMRHyaC-H";
+
+
+
+
+
+
+
+
+
+var n=0;
+
+function loadFirstSong(){
+var audio = document.getElementById("track");
+audio.src = tr[0];
+document.getElementById("t").innerHTML= ttl[0];
+}
 
 </script>
 </body>
