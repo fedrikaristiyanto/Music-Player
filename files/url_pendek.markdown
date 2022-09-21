@@ -26,7 +26,7 @@
 
 ### G
 
-- https://bit.ly/3JB20KH (George Michael - Careless Whisper) 
+- <https://bit.ly/3JB20KH> (George Michael - Careless Whisper) 
 
 ### J
 - <https://bit.ly/3LWNflr> (Jacko - You Are Not Alone)  
