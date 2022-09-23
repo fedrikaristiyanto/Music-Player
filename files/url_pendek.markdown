@@ -2,6 +2,7 @@
  [A](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#a) /
  [D](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#d) /
  [F](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#f) /
+ G /
  [J](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#j) /
  [L](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#l) /
  [N](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#n) /
@@ -13,7 +14,7 @@
 - <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
 - <https://bit.ly/388fZsU> (Andy James - The Long Road) _instrumental_
 - <https://bit.ly/3OINpPk> (Andy James - Legion) _instrumental_
-- https://bit.ly/3OPTF7z (Andy Timmons - A Night To Remember) 
+- <https://bit.ly/3OPTF7z> (Andy Timmons - A Night To Remember)  _instrumental_
 
 ### D
 - <https://bit.ly/3LaX9ii> (Dave Grusin - Crystal Morning) _jazz instrumental_
@@ -22,6 +23,10 @@
 
 ### F
 - <https://bit.ly/3tKDbF9> (Frank Sinatra & Antonio Carlos Jobim - The Girl From Ipanema) 
+
+### G
+
+- <https://bit.ly/3JB20KH> (George Michael - Careless Whisper) 
 
 ### J
 - <https://bit.ly/3LWNflr> (Jacko - You Are Not Alone)  
