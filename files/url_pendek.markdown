@@ -6,6 +6,7 @@
  [J](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#j) /
  [L](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#l) /
  [N](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#n) /
+ R /
  [Y](https://fedrikaristiyanto.github.io/Music-Player/files/url_pendek#y)
 
 ---
