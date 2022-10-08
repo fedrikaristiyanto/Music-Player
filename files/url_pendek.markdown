@@ -34,8 +34,8 @@
 - <https://is.gd/eQphra> (Jeff Beck - Bulgaria) _Instrumental_
 - <https://bit.ly/3PjghOq> (Jennifer Rush - The Power of Love) 
 - Joe Satriani
-  - I Believe
-  - <https://bit.ly/3G7P0KN> (Joe Satriani - Starry Night) _Instrumental_
+  - https://is.gd/TgIgX3 (I Believe) 
+  - <https://bit.ly/3G7P0KN> (Starry Night) _Instrumental_
 - <https://bit.ly/3ddmBIA> (Joe Stump - Wrecking Machine) _Instrumental_
 - <https://bit.ly/3MaGbC5> (John Petrucci - Lost Without You) _Instrumental_
 
