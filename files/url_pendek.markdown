@@ -13,9 +13,10 @@
 
 ### A
 - <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
-- Andy James
-  - <https://bit.ly/388fZsU> (Andy James - The Long Road) _instrumental_
-  - <https://bit.ly/3OINpPk> (Andy James - Legion) _instrumental_
+- __Andy James__
+  - <https://bit.ly/388fZsU> (The Long Road) _instrumental_
+  - <https://bit.ly/3OINpPk> (Legion) _instrumental_
+
 - <https://bit.ly/3OPTF7z> (Andy Timmons - A Night To Remember)  _instrumental_
 
 ### D
