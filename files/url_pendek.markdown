@@ -12,6 +12,7 @@
 ---
 
 ### A
+- Adele
 - <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
 - __Andy James__
   - <https://bit.ly/388fZsU> (The Long Road) _instrumental_
@@ -20,7 +21,7 @@
 - <https://bit.ly/3OPTF7z> (Andy Timmons - A Night To Remember)  _instrumental_
 
 ### B
-- __Bucket Head__
+- __Buckethead__
   - https://bit.ly/3RzoTkq (For Mom) _instrumental_
 
 ### D
