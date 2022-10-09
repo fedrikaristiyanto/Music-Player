@@ -35,7 +35,7 @@
 - <https://bit.ly/3LWNflr> (Jacko - You Are Not Alone)  
 - <https://is.gd/eQphra> (Jeff Beck - Bulgaria) _Instrumental_
 - <https://bit.ly/3PjghOq> (Jennifer Rush - The Power of Love) 
-- Joe Satriani
+- __Joe Satriani__
   - https://is.gd/TgIgX3 (I Believe) 
   - <https://bit.ly/3G7P0KN> (Starry Night) _Instrumental_
 - <https://bit.ly/3ddmBIA> (Joe Stump - Wrecking Machine) _Instrumental_
