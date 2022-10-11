@@ -13,7 +13,28 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+h2 {
 
+    animation-name: colorchange;
+    animation-duration: 6;
+    animation-iteration-count:infinite;
+    -webkit-animation-name: colorchange;
+    -webkit-animation-duration: 6s;
+    -webkit-animation-iteration-count:infinite;
+}
+@keyframes colorchange {
+    0% {color: cyan; }
+    50% {color: magenta; }
+    100% {color: yellow; }
+}
+@-webkit-keyframes colorchange {
+    0% {color: cyan; }
+    50% {color: magenta; }
+    100% {color: yellow; }
+}
+
+</style>
 </head>
 <body>
 <div class="container">
