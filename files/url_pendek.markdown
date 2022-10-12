@@ -13,7 +13,7 @@
 
 ### A
 - __Adele__
-- <https://bit.ly/3z65tNY> (Adele - Easy On Me) 
+  - <https://bit.ly/3z65tNY> (Easy On Me) 
 - __Andy James__
   - <https://bit.ly/388fZsU> (The Long Road) _instrumental_
   - <https://bit.ly/3OINpPk> (Legion) _instrumental_
