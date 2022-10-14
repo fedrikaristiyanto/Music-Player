@@ -17,8 +17,8 @@
 - __Andy James__
   - <https://bit.ly/388fZsU> (The Long Road) _instrumental_
   - <https://bit.ly/3OINpPk> (Legion) _instrumental_
-
-- <https://bit.ly/3OPTF7z> (Andy Timmons - A Night To Remember)  _instrumental_
+- Andy Timmons
+- <https://bit.ly/3OPTF7z> (A Night To Remember)  _instrumental_
 
 ### B
 - __Buckethead__
