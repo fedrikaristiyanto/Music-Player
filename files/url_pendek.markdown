@@ -21,6 +21,10 @@
 - <https://bit.ly/3OPTF7z> (A Night To Remember)  _instrumental_
 
 ### B
+- Bill Evans
+
+  ...
+
 - __Buckethead__
   - https://bit.ly/3RzoTkq (For Mom) _instrumental_
 
