@@ -21,7 +21,7 @@
   - <https://bit.ly/3OPTF7z> (A Night To Remember)  _instrumental_
 
 ### B
-- Bill Evans
+- __Bill Evans__
 
   - Autumn Leaves
 
