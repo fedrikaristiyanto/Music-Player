@@ -45,6 +45,7 @@
 - <https://is.gd/eQphra> (Jeff Beck - Bulgaria) _Instrumental_
 - <https://bit.ly/3PjghOq> (Jennifer Rush - The Power of Love) 
 - __Joe Satriani__
+  - Always With Me, Always With You
   - https://is.gd/TgIgX3 (I Believe) 
   - <https://bit.ly/3G7P0KN> (Starry Night) _Instrumental_
 - <https://bit.ly/3ddmBIA> (Joe Stump - Wrecking Machine) _Instrumental_
