@@ -32,6 +32,7 @@
 - <https://bit.ly/3LaX9ii> (Dave Grusin - Crystal Morning) _jazz instrumental_
 - <https://bit.ly/3uVdkuR> (Diana Krall - If I Had You) 
 - <https://is.gd/1O5MmI> (Disturbed - Indestructible) 
+- Django Reinhardt
 
 ### F
 - <https://bit.ly/3tKDbF9> (Frank Sinatra & Antonio Carlos Jobim - The Girl From Ipanema) 
