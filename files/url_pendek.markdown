@@ -29,7 +29,8 @@
   - https://bit.ly/3RzoTkq (For Mom) _instrumental_
 
 ### D
-- <https://bit.ly/3LaX9ii> (Dave Grusin - Crystal Morning) _jazz instrumental_
+- __Dave Grusin__
+  - <https://bit.ly/3LaX9ii> (Crystal Morning) _jazz instrumental_
 - <https://bit.ly/3uVdkuR> (Diana Krall - If I Had You) 
 - <https://is.gd/1O5MmI> (Disturbed - Indestructible) 
 - Django Reinhardt
