@@ -40,7 +40,8 @@
   - https://bit.ly/3QTyHpz (Minor Swing)
 
 ### F
-- <https://bit.ly/3tKDbF9> (Frank Sinatra & Antonio Carlos Jobim - The Girl From Ipanema) 
+- Frank Sinatra
+  - <https://bit.ly/3tKDbF9> (Frank Sinatra & Antonio Carlos Jobim - The Girl From Ipanema) 
 
 ### G
 
