@@ -78,6 +78,7 @@
 - https://bit.ly/3A4n9df (Toni Braxton - Un-Break My Heart)
 
 ### Y
+- Yngwie Malmsteen
 - https://bit.ly/3xBXaab (Yngwie Malmsteen - Cavallino Rampante) 
 
 
