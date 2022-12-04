@@ -79,7 +79,7 @@
 
 ### Y
 - Yngwie Malmsteen
-- https://bit.ly/3xBXaab (Yngwie Malmsteen - Cavallino Rampante) 
+  - https://bit.ly/3xBXaab (Cavallino Rampante) 
 
 
 ---
