@@ -36,9 +36,9 @@
   - <https://bit.ly/3LaX9ii> (Crystal Morning) _jazz instrumental_
 - __Diana Krall__
   - <https://bit.ly/3uVdkuR> (If I Had You) 
-- Disturbed
+- __Disturbed__
   - <https://is.gd/1O5MmI> (Indestructible) 
-- Django Reinhardt
+- __Django Reinhardt__
   - https://bit.ly/3QTyHpz (Minor Swing)
 
 ### F
