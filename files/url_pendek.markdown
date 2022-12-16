@@ -34,7 +34,7 @@
 ### D
 - __Dave Grusin__
   - <https://bit.ly/3LaX9ii> (Crystal Morning) _jazz instrumental_
-- Diana Krall
+- __Diana Krall__
   - <https://bit.ly/3uVdkuR> (If I Had You) 
 - Disturbed
   - <https://is.gd/1O5MmI> (Indestructible) 
