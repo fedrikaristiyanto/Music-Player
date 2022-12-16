@@ -63,6 +63,9 @@
 ### L
 - <https://bit.ly/3vUMwus> (Linkin Park - Session) _Instrumental_
 
+### M
+- Miles Davis
+
 ### N
 - <https://bit.ly/3wB5xnc> (Natalie Cole - Lovers) 
 
